@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 23, 2019, 12:51:12 AM
+    Author     : AMIN
+*/
+
+.station a:hover {
+    text-decoration: none;
+}
+
+.station a:hover>div {
+    background-color: #ffffff!important;
+}
+
+.station a:hover h4, 
+.station a:hover p {
+    color: #000000!important;
+}
